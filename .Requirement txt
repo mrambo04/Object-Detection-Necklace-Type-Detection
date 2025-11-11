@@ -1,1 +1,33 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.1
+
+# Deep Learning Frameworks
+torch==2.3.0
+torchvision==0.18.0
+ultralytics==8.2.79   # for YOLOv8 or YOLOv11 models
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.66.4
+pyyaml==6.0.2
+requests==2.31.0
+
+# Data Handling
+scipy==1.12.0
+scikit-learn==1.5.0
+
+# Annotation & Dataset Tools (optional)
+roboflow==1.1.30
+
+# Deployment / Web App (optional)
+streamlit==1.34.0
+flask==3.0.3
 
