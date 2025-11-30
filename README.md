@@ -7,7 +7,7 @@ This project develops a convolutional neural network (CNN)-based object detectio
 ## 🎯 Objective  
 To design an end-to-end object detection pipeline that:
 - Processes image data of various necklace types (chains, pendants, chokers, etc.)
-- Trains a CNN or detection model (e.g., YOLO, Faster-R-CNN) to detect and classify necklace types
+- Trains a CNN or detection model (e.g., YOLO, Faster-R-CNN) to detect and classify necklace types 
 - Evaluates model performance and demonstrates a real-world inference use-case
 
 ## 🧰 Tools & Technologies  
