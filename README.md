@@ -1,6 +1,6 @@
 # Object-detection-on-Necklace-
 # 💍 Necklace Type Object Detection using CNN
-
+ 
 ## 📘 Overview 
 This project develops a convolutional neural network (CNN)-based object detection model for identifying different types of necklaces in images. The aim is to build a robust system that can automatically detect, classify, and locate necklace types for use in e-commerce, jewelry cataloging, or digital inventory management.
 
