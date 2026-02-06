@@ -5,7 +5,7 @@
 This project develops a convolutional neural network (CNN)-based object detection model for identifying different types of necklaces in images. The aim is to build a robust system that can automatically detect, classify, and locate necklace types for use in e-commerce, jewelry cataloging, or digital inventory management.  
     
 ## 🎯 Objective          
-To design an end-to-end object detection pipeline that:      
+To design an end-to-end object detection pipeline that:       
 - Processes image data of various necklace types (chains, pendants, chokers, etc.)   
 - Trains a CNN or detection model (e.g., YOLO, Faster-R-CNN) to detect and classify necklace types    
 -  Evaluates model performance and demonstrates a real-world inference use-case     
