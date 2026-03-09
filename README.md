@@ -15,7 +15,7 @@ Python • TensorFlow / Keras • OpenCV • CNN architectures (e.g., YOLOv5, Fa
  
 ## 🧮 Approach  
 1. Data collection & preprocessing: image resizing, normalization, annotation of bounding boxes  
-2. Model construction: selecting an appropriate object detection architecture, setting up training pipeline  
+2. Model construction: selecting an appropriate object detection architecture, setting up training pipeline   
 3. Training & validation: splitting data into train/val/test sets, applying augmentation, monitoring metrics  
 4. Inference & evaluation: running the model on new images, calculating metrics such as mAP (mean Average Precision), IoU (Intersection over Union)  
 5. Deployment / usage: providing a script or notebook to input a sample image and output detected necklace type(s) with bounding boxes
