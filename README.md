@@ -10,7 +10,7 @@ To design an end-to-end object detection pipeline that:
 - Trains a CNN or detection model (e.g., YOLO, Faster-R-CNN) to detect and classify necklace types        
 -  Evaluates model performance and demonstrates a real-world inference use-case      
          
-## 🧰 Tools & Technologies     
+## 🧰 Tools & Technologies      
 Python • TensorFlow / Keras • OpenCV • CNN architectures (e.g., YOLOv5, Faster R-CNN) • NumPy • Matplotlib • Jupyter Notebook
  
 ## 🧮 Approach  
