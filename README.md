@@ -12,7 +12,7 @@ To design an end-to-end object detection pipeline that:
            
 ## 🧰 Tools & Technologies          
 Python • TensorFlow / Keras • OpenCV • CNN architectures (e.g., YOLOv5, Faster R-CNN) • NumPy • Matplotlib • Jupyter Notebook
- 
+  
 ## 🧮 Approach    
 1. Data collection & preprocessing: image resizing, normalization, annotation of bounding boxes  
 2. Model construction: selecting an appropriate object detection architecture, setting up training pipeline   
