@@ -1,4 +1,4 @@
-# Object-detection-on-Necklace- 
+# Object-detection-on-Necklace-  
 # 💍 Necklace Type Object Detection using CNN    
                
 ## 📘 Overview                 
